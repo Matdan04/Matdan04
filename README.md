@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rushdan
-- 👀 I’m interested in Data Engineering
+- 👀 I’m interested in Data Engineering/Software Developement
 - 🌱 I’m currently learning Microsoft Azure Data Engineering
 - 💞️ I’m looking to collaborate as Data Engineer
 - 📫 How to reach me https://www.linkedin.com/in/mohd-rushdan-ashraf-mohd-isha-952270278/
